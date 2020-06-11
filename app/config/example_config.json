@@ -1,0 +1,10 @@
+{
+    "discord":{
+        "loginToken": "bot token",
+        "sendMessageTo": "some discord id",
+        "message": "Hello"
+    },
+    "express":{
+        "port": 11100
+    }
+}
