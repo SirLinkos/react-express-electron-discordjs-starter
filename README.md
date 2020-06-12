@@ -21,7 +21,7 @@ cd your-folder-name
 # Install dependencies
 npm install
 ```
-You'll then need to head to ```app/config/config.json```  add your bot token from the [discord developer site](https://discord.com/developers), enter the id of the person you want to write (not the display name), and edit the message if you want to (dont leave it empty tho). 
+You'll then need to head to ```app/config/config.json```  add your bot token from the [discord developer site](https://discord.com/developers), enter the id of the person you want to write (not the display name), and edit the message if you want to (dont leave it empty tho). Then rename the file to ```config.json```.
 
 After that you can
 
